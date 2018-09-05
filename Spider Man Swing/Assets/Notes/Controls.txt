@@ -1,0 +1,6 @@
+W,A,S,D to move around
+Space Bar to jump
+Mouse to move camera around
+Left mouse button to swing
+
+Swing only possible while in the air/ not grounded
